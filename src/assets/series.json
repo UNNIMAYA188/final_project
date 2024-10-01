@@ -1,0 +1,164 @@
+[
+    {
+    "id": 1,
+    "movie": "Stranger Things",
+    "rating": 8.7,
+    "year": "2016",
+    "director": "The Duffer Brothers",
+    "language": "English",
+    "starring": "Winona Ryder, David Harbour, Millie Bobby Brown",
+    "viewercount": "Unknown",
+    "about": "A science fiction horror series set in the 1980s, following a group of kids who encounter supernatural events and government conspiracies in their small town.",
+    "image": "https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX246_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt4574334/"
+  },
+  {
+    "id": 2,
+    "movie": "Sacred Games",
+    "rating": 8.7,
+    "year": "2018",
+    "director": "Anurag Kashyap, Vikramaditya Motwane",
+    "language": "Hindi",
+    "starring": "Saif Ali Khan, Nawazuddin Siddiqui, Radhika Apte",
+    "viewercount": "Unknown",
+    "about": "A dark crime thriller following a Mumbai police officer's investigation into a powerful underworld crime lord, revealing deep-seated corruption and conspiracy.",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTA4ZmFhYTktMGY5MS00NTRkLThlNmEtOTA1ZGQ3MGRhMTBiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX334.5_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt6077448/"
+  },
+  {
+    "id": 3,
+    "movie": "Crash Landing on You",
+    "rating": 8.6,
+    "year": "2019",
+    "director": "Lee Jeong-hyo",
+    "language": "Korean",
+    "starring": "Hyun Bin, Son Ye-jin, Kim Jung-hyun",
+    "viewercount": "Unknown",
+    "about": "A romantic drama about a South Korean heiress who accidentally lands in North Korea and falls in love with a North Korean soldier.",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWQyZTkwMTMtYTJiZS00MGNlLThhN2EtYzEzOGQzYjFiZGQxXkEyXkFqcGdeQXVyMTEzMjQ4NzEw._V1_QL75_UX1230_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt10850932/"
+  },
+  {
+    "id": 4,
+    "movie": "Attack on Titan",
+    "rating": 8.9,
+    "year": "2013",
+    "director": "Tetsurō Araki",
+    "language": "Japanese",
+    "starring": "Yuki Kaji, Marina Inoue, Yui Ishikawa",
+    "viewercount": "Unknown",
+    "about": "An anime series set in a world where humanity lives within enormous walled cities to protect themselves from giant humanoid creatures known as Titans.",
+    "image": "https://th.bing.com/th/id/OIP.08EHFOKXlwJH4qBcbjtsgQHaOG?w=115&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+    "imdb_url": "https://www.imdb.com/title/tt2560140/"
+  },
+  {
+    "id": 5,
+    "movie": "Money Heist",
+    "rating": 8.3,
+    "year": "2017",
+    "director": "Álex Pina",
+    "language": "Spanish",
+    "starring": "Álvaro Morte, Úrsula Corberó, Itziar Ituño",
+    "viewercount": "Unknown",
+    "about": "A thrilling heist drama about a criminal mastermind known as 'The Professor' who plans and executes elaborate heists on the Royal Mint of Spain and the Bank of Spain.",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDdkN2VjNWUtMmFiYS00NzgwLTkwZTItNTBiMjFlNGFiNTdhXkEyXkFqcGc@._V1_QL75_UX1230_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt6468322/"
+  },
+  {
+    "id": 6,
+      "movie": "Lupin",
+      "rating": 7.6,
+      "year": "2021",
+      "director": "Louis Leterrier",
+      "language": "French",
+      "starring": "Omar Sy, Ludivine Sagnier, Clotilde Hesme",
+      "viewercount": "Unknown",
+      "about": "A French thriller series about a gentleman thief inspired by the adventures of Arsène Lupin, following his quest for justice and revenge.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDdlNGMyZjktYzM0Yi00ZWE3LTk0NTEtMmU1OWIxNmU4OWQ2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX1230_.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt2531336/"
+  },
+
+  {
+    "id": 7,
+    "movie": "Gomorrah",
+    "rating": 8.7,
+    "year": "2014",
+    "director": "Stefano Sollima, Claudio Cupellini",
+    "language": "Italian",
+    "starring": "Salvatore Esposito, Marco D'Amore, Fortunato Cerlino",
+    "viewercount": "Unknown",
+    "about": "A gritty crime drama depicting the inner workings of the Camorra, a powerful Neapolitan crime syndicate, and the impact on the lives of those involved.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM2NDgzMDY4MF5BMl5BanBnXkFtZTcwMzUwMzg5MQ@@._V1_QL75_UX238.5_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0929425/"
+  },
+  {
+    "id": 8,
+    "movie": "Diriliş: Ertuğrul",
+    "rating": 8.2,
+    "year": "2014",
+    "director": "Metin Günay",
+    "language": "Turkish",
+    "starring": "Engin Altan Düzyatan, Esra Bilgiç, Hülya Darcan",
+    "viewercount": "Unknown",
+    "about": "A historical drama series following the life of Ertugrul Bey, the father of Osman I, and his struggles to establish a state in the 13th century.",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmQxNzhmMmEtNGYxMy00NTBlLTg1ZDQtZmI0MGQ1MGQ2NzQzXkEyXkFqcGdeQXVyMTA3MTI2ODc5._V1_QL75_UX286.5_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt4320258/"
+  },
+  {
+    "id": 9,
+    "movie": "Nagendran's Honeymoons",
+    "rating": 7.3,
+    "year": "2024",
+    "director": "nithin renji paniker",
+    "language": "malayalam",
+    "starring": "suraj venjaramood,grace antony",
+    "viewercount": "Unknown",
+    "about": "A dramatic series about a man whose life changes dramatically after a sudden and unexpected event, exploring themes of personal transformation and societal impact.",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGFlN2UyYmUtNWVjZC00M2I4LTg3MTgtNTE1MzljMWJiOTZkXkEyXkFqcGc@._V1_QL75_UX1230_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt27950365/"
+  },
+    {
+        "id": 10,
+        "movie": "Never Have I Ever",
+        "rating": 7.8,
+        "year": "2020",
+        "director": "Lang Fisher, Mindy Kaling",
+        "language": "English",
+        "starring": "Maitreyi Ramakrishnan, Poorna Jagannathan, Richa Moorjani",
+        "viewercount": "over 2 million",
+        "about": "A coming-of-age comedy-drama about an Indian-American teen navigating the pressures of high school and family life.",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzdhOGVjMTQtOTQ0Yi00ZWNjLTk2MjMtMWMzODczNWNiNmM3XkEyXkFqcGc@._V1_QL75_UX228_.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt10062292/"
+    },
+      {
+          "id": 11,
+          "movie": "The Night Manager",
+          "rating": 8.1,
+          "year": "2016",
+          "director": "Susanne Bier",
+          "language": "English",
+          "starring": "Tom Hiddleston, Hugh Laurie, Olivia Colman",
+          "viewercount": "over 3 million",
+          "about": "A former soldier is recruited to infiltrate the inner circle of an arms dealer, leading to a high-stakes game of espionage.",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTk1NzkyMTUyN15BMl5BanBnXkFtZTgwNTM0NzM2ODE@._V1_QL75_UX1230_.jpg",
+          "imdb_url": "https://www.imdb.com/title/tt1399664/"
+      },
+      {
+          "id": 12,
+          "movie": "The Fall",
+          "rating": 8.2,
+          "year": "2013-2016",
+          "director": "Allan Cubitt",
+          "language": "English",
+          "starring": "Gillian Anderson, Jamie Dornan, John Lynch",
+          "viewercount": "over 1 million",
+          "about": "A detective hunts a serial killer in Belfast, exploring the psychological complexities of both the investigator and the criminal.",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjc0MzJhZTAtMWYxYy00NGFmLWE5NzMtMzk1ZTFkMzhjOTVkXkEyXkFqcGc@._V1_QL75_UX1230_.jpg",
+          "imdb_url": "https://www.imdb.com/title/tt2294189/"
+      } 
+]
+
+  
+
+    
+ 

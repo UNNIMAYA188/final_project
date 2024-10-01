@@ -1,0 +1,217 @@
+[
+    {
+    "id": 1,
+    "movie": "The Prestige",
+    "rating": 8.5,
+    "year": "2006",
+    "director": "Christopher Nolan",
+    "language": "English",
+    "starring": "Christian Bale, Hugh Jackman, Scarlett Johansson",
+    "viewercount": "14,000,000",
+    "about": "A gripping thriller about two rival magicians whose intense competition leads them to dangerous and innovative extremes.",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzQyYWIxNDctOTU0Mi00NTMyLThhYmUtMzAyMjhmZmNjMmVkXkEyXkFqcGc@._V1_QL75_UX237_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0482571/"
+},
+{
+    "id": 2,
+    "movie": "Kumbalangi Nights",
+    "rating": 8.6,
+    "year": "2019",
+    "director": "Madhu C. Narayanan",
+    "language": "Malayalam",
+    "starring": "Fahadh Faasil, Soubin Shahir, Shane Nigam",
+    "viewercount": "4,500,000",
+    "about": "A beautifully crafted film about the lives of four brothers in a fishing village, exploring themes of family and redemption.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGIxYjNlODgtMzUwMy00ZmIzLThjZWQtYzU2NjdlNDIwMDA3XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_QL75_UX1230_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt8413338/?ref_=nv_sr_srsg_0_tt_4_nm_4_in_0_q_kumb"
+},
+{
+    "id": 3,
+    "movie": "Breaking Bad",
+    "rating": 9.5,
+    "year": "2008",
+    "director": "Vince Gilligan",
+    "language": "English",
+    "starring": "Bryan Cranston, Aaron Paul, Anna Gunn",
+    "viewercount": "30,000,000",
+    "about": "A high school chemistry teacher turned methamphetamine manufacturer faces moral dilemmas and dangerous confrontations in a quest to secure his family’s future.",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzk5NTA2NjE4OV5BMl5BanBnXkFtZTcwMjUwNjY1NQ@@._V1_QL75_UX1230_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0903747/"
+},
+{
+    "id": 4,
+    "movie": "Andhadhun",
+    "rating": 8.3,
+    "year": "2018",
+    "director": "Sriram Raghavan",
+    "language": "Hindi",
+    "starring": "Ayushmann Khurrana, Tabu, Radhika Apte",
+    "viewercount": "9,000,000",
+    "about": "A dark comedy thriller about a blind pianist who becomes embroiled in a series of murders and deceptions.",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2Y3NWNmY2EtMjNlMi00YWM5LTg5MDEtZWJjYjllNjBjMWU0XkEyXkFqcGc@._V1_QL75_UX241.5_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt8108198/?ref_=nv_sr_srsg_4_tt_8_nm_0_in_0_q_andha"
+},
+{
+    "id": 5,
+    "movie": "Squid Game",
+    "rating": 8.0,
+    "year": "2021",
+    "director": "Hwang Dong-hyuk",
+    "language": "Korean",
+    "starring": "Lee Jung-jae, Park Hae-soo, Wi Ha-joon",
+    "viewercount": "25,000,000",
+    "about": "A gripping drama about individuals who participate in deadly children's games for a chance to win a massive cash prize.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmQ1NGNmY2EtNThlYy00Y2Q4LTllOTMtZDcwZGQyOWYzN2I1XkEyXkFqcGdeQXVyNjkwOTQ4MDE@._V1_QL75_UX201_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt10919420/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_squi"
+},
+{
+    "id": 6,
+    "movie": "The David Letterman Show",
+    "rating": 8.4,
+    "year": "2024",
+    "director": "",
+    "language": "English",
+    "starring": "David Letterman, Various Guests",
+    "viewercount": "3,000,000",
+    "about": "A renowned talk show featuring interviews with celebrities, politicians, and other notable figures, offering insights into their lives and careers.",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzEyYjc1OTEtNzNiYS00Yjg2LWEyMWUtNjMyZTM4ZGVlZGM2XkEyXkFqcGdeQXVyODQyNDU4OTk@._V1_QL75_UX1230_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0080209/?ref_=nv_sr_srsg_2_tt_7_nm_1_in_0_q_david%2520letterman%2520sh"
+},
+{
+    "id": 7,
+    "movie": "Golden Globe Awards 2024",
+    "rating": 0,
+    "year": "2024",
+    "director": "",
+    "language": "English",
+    "starring": "",
+    "viewercount": "10,000,000",
+    "about": "The 81st Annual Golden Globe Awards celebrating outstanding achievements in film and television.",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2JhMDc5NTUtMGU4NS00NmYwLWE2OWQtNmIxY2NmZDI3OGNiXkEyXkFqcGdeQXVyNDA1OTM4MjM@._V1_QL75_UX1230_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt30036660/?ref_=nv_sr_srsg_4_tt_7_nm_0_in_0_q_golden%2520glo"
+},
+{
+    "id": 8,
+    "movie": "The Matrix",
+    "rating": 8.7,
+    "year": "1999",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "language": "English",
+    "starring": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
+    "viewercount": "22,000,000",
+    "about": "A revolutionary sci-fi film where a computer hacker learns about the true nature of reality and fights to free humanity from a simulated world.",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGMzZDc3ZGUtMDIzYy00Y2ViLWE3ZGYtNDg2ZWM0YjBiMTk2XkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_QL75_UX1230_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0133093/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_the%2520mat"
+},
+{
+    "id": 9,
+    "movie": "Sacred Games",
+    "rating": 8.7,
+    "year": "2018",
+    "director": "Anurag Kashyap, Vikramaditya Motwane",
+    "language": "Hindi",
+    "starring": "Nawazuddin Siddiqui, Saif Ali Khan, Radhika Apte",
+    "viewercount": "11,000,000",
+    "about": "A gripping crime thriller series set in Mumbai, exploring the dark underbelly of the city and the complex lives of its residents.",
+    "image":"https://m.media-amazon.com/images/M/MV5BN2EyODc1MDAtNTg0ZC00MjRhLTg1NzctM2NjYTlmOGMwYWNiXkEyXkFqcGc@._V1_QL75_UX1230_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt6077448/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_sacred%2520g"
+},
+{
+    "id": 10,
+    "movie": "Hotel Del Luna",
+    "rating": 8.4,
+    "year": "2019",
+    "director": "Oh Choong-hwan",
+    "language": "Korean",
+    "starring": "IU, Yeo Jin-goo",
+    "viewercount": "9,000,000",
+    "about": "A fantasy romance about a mysterious hotel for ghosts, run by an enigmatic woman who has been trapped in the hotel for centuries.",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWU3M2YxZmEtZTZiMi00NTBhLWEyYWMtOTBhOTEyMzkyYmI4XkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_QL75_UX1230_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt10220588/?ref_=nv_sr_srsg_1_tt_8_nm_0_in_0_q_hotel%2520de"
+},
+  {
+            "id": 11,
+            "movie": "Jai Bhim",
+            "rating": 8.8,
+            "year": "2021",
+            "director": "T.J. Gnanavel",
+            "language": "Tamil",
+            "starring": "Suriya, Lijomol Jose, K. Manikandan",
+            "viewercount": "Unknown",
+            "about": "A legal drama inspired by true events, focusing on the struggles of an oppressed community and a lawyer's fight against systemic injustice after a man from the community is falsely accused of a crime.",
+            "image": "https://m.media-amazon.com/images/M/MV5BOGUzNWI2NmYtMjJmNi00N2VlLTgzMDEtMzg1Mjg2NThlY2RhXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_QL75_UX411_.jpg",
+            "imdb_url": "https://www.imdb.com/title/tt15097216/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_jaibh"
+          },
+          {
+      "id": 12,
+      "movie": "My Girlfriend is an Alien",
+      "rating": 8.4,
+      "year": "2019",
+      "director": "Lin Yan",
+      "language": "Chinese",
+      "starring": "Bai Lu, Philip Wang",
+      "viewercount": "Unknown",
+      "about": "A romantic comedy series about a young woman from another planet who arrives on Earth and ends up falling in love with a CEO while trying to keep her extraterrestrial origins a secret.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzgxZWNkNDQtNWE2Yy00OTQzLTgxNTMtMmVmYWVmNGNmN2ZiXkEyXkFqcGdeQXVyOTE4NzcwNzI@._V1_QL75_UX1230_.jpg",
+      "imdb_url": "https://www.imdb.com/title/tt10874298/?ref_=nv_sr_srsg_3_tt_8_nm_0_in_0_q_my%2520girlfr"
+    },
+    {
+        "id": 13,
+        "movie": "It Chapter Two",
+        "rating": 6.5,
+        "year": "2019",
+        "director": "Andy Muschietti",
+        "language": "English",
+        "starring": "Jessica Chastain, James McAvoy, Bill Hader",
+        "viewercount": "Unknown",
+        "about": "In this horror sequel, the Losers' Club has grown up and moved away, but when they receive a disturbing phone call from their past, they must return to their hometown of Derry to confront the demonic entity that terrorized them as children.",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDc2OWNlZmQtMjg3Yi00NDNjLWJjYzItNDY1N2E2YmE5MjU2XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_QL75_UX1230_.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt7349950/"
+      },
+      {
+        "id": 14,
+        "movie": "Dangal",
+        "rating": 8.4,
+        "year": "2016",
+        "director": "Nitesh Tiwari",
+        "language": "Hindi",
+        "starring": "Aamir Khan, Sakshi Tanwar, Fatima Sana Shaikh",
+        "viewercount": "Unknown",
+        "about": "A biographical sports drama based on the true story of Mahavir Singh Phogat, an Indian wrestler who trains his daughters to become world-class wrestlers, overcoming societal norms and personal challenges.",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_QL75_UX1230_.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt5074352/"
+      },
+      {
+        "id": 15,
+        "movie": "Article 15",
+        "rating": 8.2,
+        "year": "2019",
+        "director": "Anubhav Sinha",
+        "language": "Hindi",
+        "starring": "Ayushmann Khurrana, Isha Talwar, Rasika Dugal",
+        "viewercount": "Unknown",
+        "about": "A crime drama based on true events, focusing on a young police officer who investigates a case of caste-based discrimination and violence in rural India, uncovering a harsh reality beneath the surface.",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGEzOTIyNzItMTlkZC00MGZlLThjZjAtMTBhYzU3OGNjMWIxXkEyXkFqcGc@._V1_QL75_UX1230_.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt10324144/?ref_=nv_sr_srsg_4_tt_7_nm_1_in_0_q_artic"
+      },
+      {
+        "id": 16,
+        "movie": "Kannur Squad",
+        "rating": 7.8,
+        "year": "2023",
+        "director": "Ranjith Sankar",
+        "language": "Malayalam",
+        "starring": "Mammootty, Suraj Venjaramoodu, Arya Salim",
+        "viewercount": "Unknown",
+        "about": "A gripping action thriller about a dedicated police officer and his squad who embark on a high-stakes mission to combat organized crime, uncovering dangerous conspiracies and facing intense challenges along the way.",
+        "image": "https://m.media-amazon.com/images/M/MV5BOWJkZDY1OWYtNTg0MC00OWU2LWJiMzMtNmM0NTlkNDEzOTIyXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX1230_.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt25274786/?ref_=nv_sr_srsg_0_tt_4_nm_4_in_0_q_kannur"
+      }
+      
+      
+      
+      
+    
+]
+
+

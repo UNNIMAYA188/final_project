@@ -1,0 +1,18 @@
+<div class="product">
+    <div class="row">
+        @for (item of movies; track item.id) {
+            <div class="col">
+                <div class="card" style="width: 18rem;">
+                    <img src="{{item.image}}" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">{{item.movie}}</h5>
+                      <p class="language">language : {{item.language}}</p>
+                      <p class="director">director: {{item.director}}</p>
+                      <p class="rating">Rating  {{item.rating}}</p>
+                      <a href="{{item.imdb_url}}" class="btn btn-primary">know more</a>
+                    </div>
+                  </div>
+            </div>
+        }
+    </div>
+  </div>
